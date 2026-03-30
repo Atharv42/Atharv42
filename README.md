@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Atharv%20Trivedi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20ideas%20into%20reality%20%E2%80%94%20one%20commit%20at%20a%20time&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00D9FF,100:0a0a0a&height=200&section=header&text=Atharv%20Trivedi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20ideas%20into%20reality%20%E2%80%94%20one%20commit%20at%20a%20time&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+C%2B%2B+%7C+JavaScript+Enthusiast;GUI+%26+Systems+Builder;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+C%2B%2B+%7C+JavaScript+Enthusiast;GUI+%26+Systems+Builder;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Atharv42?label=Followers&style=for-the-badge&color=7C3AED&labelColor=0d1117)](https://github.com/Atharv42?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=Atharv42&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/Atharv42)
+[![GitHub followers](https://img.shields.io/github/followers/Atharv42?label=Followers&style=for-the-badge&color=00D9FF&labelColor=000000&logoColor=white)](https://github.com/Atharv42?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Atharv42&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=000000)](https://github.com/Atharv42)
 
 </div>
 
@@ -75,7 +75,7 @@ A full-featured GUI-based restaurant management application built with Python. H
 
 `#Python` `#GUI` `#Tkinter` `#OOP`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/Atharv42/woc7.0-python-gui-restaurant-management-Atharv)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Atharv42/woc7.0-python-gui-restaurant-management-Atharv)
 
 </td>
 <td width="50%">
@@ -87,7 +87,7 @@ A C++ project for a competitive map-based problem, showcasing algorithmic thinki
 
 `#C++` `#Algorithms` `#DSA` `#Competitive`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/Atharv42/IT_206_map_contest)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Atharv42/IT_206_map_contest)
 
 </td>
 </tr>
@@ -101,7 +101,7 @@ A fully functional desktop music player built in C++ using the Qt framework as p
 
 `#C++` `#Qt` `#Desktop` `#Multimedia`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/Atharv42/IT_206_music-player)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Atharv42/IT_206_music-player)
 
 </td>
 <td width="50%">
@@ -113,7 +113,7 @@ An AI-powered recipe assistant that uses Claude (Anthropic's LLM) to generate pe
 
 `#JavaScript` `#React` `#AI` `#LLM`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/Atharv42/Chef-Claude)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Atharv42/Chef-Claude)
 
 </td>
 </tr>
@@ -127,7 +127,7 @@ A pixel-accurate clone of YouTube's frontend — demonstrating strong HTML/CSS l
 
 `#HTML` `#CSS` `#Frontend` `#Responsive`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/Atharv42/YouTube_Clone_Frontend)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Atharv42/YouTube_Clone_Frontend)
 
 </td>
 <td width="50%">
@@ -139,7 +139,7 @@ A pixel-accurate clone of YouTube's frontend — demonstrating strong HTML/CSS l
 
 `#JavaScript` `#VanillaJS` `#30DayChallenge`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/Atharv42/JavaScript30)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Atharv42/JavaScript30)
 
 </td>
 </tr>
@@ -151,12 +151,12 @@ A pixel-accurate clone of YouTube's frontend — demonstrating strong HTML/CSS l
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharv42&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv42&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharv42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&title_color=00D9FF&icon_color=00D9FF&border_color=00D9FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv42&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&title_color=00D9FF&border_color=00D9FF"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Atharv42&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=ff6e6e&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Atharv42&theme=tokyonight&hide_border=false&border=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -166,7 +166,7 @@ A pixel-accurate clone of YouTube's frontend — demonstrating strong HTML/CSS l
 
 <div align="center">
 
-[![Atharv's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv42&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&area_color=302b63&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Atharv's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv42&theme=tokyo-night&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=false&border_color=00D9FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -176,9 +176,9 @@ A pixel-accurate clone of YouTube's frontend — demonstrating strong HTML/CSS l
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Atharv42-181717?style=for-the-badge&logo=github)](https://github.com/Atharv42)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharv-trivedi/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail)](mailto:trivediatharv0402@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Atharv42-00D9FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/Atharv42)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://linkedin.com/in/atharv-trivedi)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-00D9FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000)](mailto:your-email@gmail.com)
 
 </div>
 
@@ -193,6 +193,6 @@ A pixel-accurate clone of YouTube's frontend — demonstrating strong HTML/CSS l
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00D9FF,100:0a0a0a&height=120&section=footer" />
 
 </div>
